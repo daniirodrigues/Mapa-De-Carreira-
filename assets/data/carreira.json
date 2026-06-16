@@ -1,0 +1,133 @@
+{
+  "seo": {
+    "title": "Daniel Rodrigues | Mapa de Carreira em Tecnologia",
+    "description": "Mapa de carreira de Daniel Rodrigues, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+    "author": "Daniel Rodrigues",
+    "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
+  },
+  "profile": {
+    "name": "Daniel Rodrigues",
+    "headline": "Comunicação e Front-End (HTML, CSS e JavaScript)",
+    "photo": "assets/images/1777941201255.jpg",
+    "photoAlt": "Foto profissional de Daniel Rodrigues",
+    "summary": "Tenho formação e habilidades em comunicação, adquiridas através de projetos e estudos. Também possuo conhecimentos em desenvolvimento Front-End, especialmente em HTML, CSS e JavaScript, além de interesse crescente na área de tecnologia. Busco evoluir profissionalmente unindo comunicação e desenvolvimento web.",
+    "cvUrl": "https://drive.google.com/drive/folders/1lxsdtRmkAO_CC-Ei0dIIetfpMJobwMkD?usp=sharing"
+  },
+  "contacts": [
+    {
+      "label": "odani7544@gmail.com",
+      "url": "mailto:odani7544@gmail.com"
+    },
+    {
+      "label": "Conheça meu Linkedin!",
+      "url": "https://www.linkedin.com/in/daniielrodriguesdasilva/"
+    },
+    {
+      "label": "Acesse meu GitHub!",
+      "url": "https://github.com/daniirodrigues"
+    }
+  ],
+  "careerSteps": [
+    {
+      "title": "Desenvolvedor Mobile Kotlin Júnior",
+      "description": "Responsável por desenvolver aplicações mobile utilizando Kotlin e Android Studio, criando interfaces funcionais, intuitivas e com boa experiência para o usuário. Atua também na integração com APIs e no uso de banco de dados.",
+      "softSkills": [
+        "Comunicação clara e objetiva",
+        "Facilidade de aprendizado",
+        "Organização e responsabilidade",
+        "Trabalho em equipe"
+      ],
+      "roadmap": [
+        "Kotlin",
+        "Android Studio",
+        "Lógica de Programação",
+        "APIs REST",
+        "MongoDB",
+        "UI/UX"
+      ]
+    },
+    {
+      "title": "Desenvolvedor Front-End / Mobile Pleno",
+      "description": "Profissional com maior autonomia no desenvolvimento de aplicações web e mobile, criando interfaces responsivas e integrando sistemas. Participa de decisões técnicas e melhora a experiência do usuário.",
+      "softSkills": [
+        "Pensamento lógico e resolução de problemas",
+        "Proatividade",
+        "Comunicação em equipe",
+        "Adaptabilidade"
+      ],
+      "roadmap": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Responsividade",
+        "Integração com APIs",
+        "Boas práticas de código"
+      ]
+    },
+    {
+      "title": "Desenvolvedor Full Stack / Mobile Avançado",
+      "description": "Profissional capaz de atuar tanto no front-end quanto no back-end, desenvolvendo soluções completas, escaláveis e eficientes. Trabalha com arquitetura de sistemas e integra diferentes tecnologias.",
+      "softSkills": [
+        "Visão sistêmica",
+        "Tomada de decisão",
+        "Liderança técnica básica",
+        "Pensamento estratégico"
+      ],
+      "roadmap": [
+        "Node.js",
+        "Banco de Dados (MongoDB)",
+        "Arquitetura de Software",
+        "Versionamento com Git",
+        "Integração de sistemas"
+      ]
+    }
+  ],
+  "skillGroups": [
+    {
+      "title": "Front-End",
+      "skills": [
+        {
+          "name": "HTML",
+          "level": 60
+        },
+        {
+          "name": "CSS",
+          "level": 60
+        },
+        {
+          "name": "JavaScript",
+          "level": 40
+        }
+      ]
+    },
+    {
+      "title": "Comunicação",
+      "skills": [
+        {
+          "name": "Comunicação",
+          "level": 80
+        },
+        {
+          "name": "Oratória",
+          "level": 70
+        }
+      ]
+    }
+  ],
+  "otherSkills": [
+    "Figma",
+    "Comunicação",
+    "Facilidade em aprendizado",
+    "Canva"
+  ],
+  "languages": [
+    {
+      "name": "Português",
+      "level": "Nativo"
+    },
+    {
+      "name": "Inglês",
+      "level": "Básico"
+    }
+  ]
+}
